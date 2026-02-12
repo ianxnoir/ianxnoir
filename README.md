@@ -71,6 +71,9 @@ I am a software engineer with **3+ years of experience** specializing in buildin
 				<a href="https://expressjs.com" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
         </a>
+		    <a href="https://nestjs.com/" target="_blank">
+          <img src="https://www.svgrepo.com/show/354107/nestjs.svg" alt="nest" width="40" height="40"/>
+        </a>
 				<a href="https://stackoverflow.com/questions/671118/what-exactly-is-restful-programming" target="_blank">
           <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/rest-api-1-570529.png" alt="restful api" width="40" height="40"/>
         </a>
