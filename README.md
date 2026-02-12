@@ -147,7 +147,7 @@ I am a software engineer with **3+ years of experience** specializing in buildin
       <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/>
        </a>
      <a href="https://www.atlassian.com/software/jira" target="_blank" >
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Jira_Logo.svg" alt="jira" width="40" height="40"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="40" height="40"/>
          </a>
      </td>
     </tr>
