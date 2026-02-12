@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20World,%20I'm%20Ian" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello%20World,%20I'm%20Ian&fontSize=40" />
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🚀 Full Stack Engineer | AWS Certified Solutions Architect</h2>
