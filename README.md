@@ -7,7 +7,7 @@
 
 Based in **Toronto, Canada** 🇨🇦
 
-I am a software engineer with **3+ years of experience** specializing in building scalable web applications and optimizing performance for high-traffic platforms.
+I am a software engineer with **4+ years of experience** specializing in building scalable web applications and optimizing performance for high-traffic platforms.
 
 - 🔭 **Currently:** Seeking Full Stack / Software Engineer roles in Toronto.
 - 💼 **Previously:** AI Trainer at **Turing** & Full Stack Developer at **HKTDC**.
