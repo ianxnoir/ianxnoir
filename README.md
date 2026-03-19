@@ -15,7 +15,6 @@ I am a software engineer with **4+ years of experience** specializing in buildin
   - Architected a virtual conference platform serving **120,000+ active users**.
   - Optimized web performance for HKTDC, improving page load speed by **35%**.
 - ☁️ **Cloud:** AWS Certified Solutions Architect – Associate.
-- 💻 **Core Stack:** React, Next.js, TypeScript, Node.js (NestJS), GraphQL.
 
 </div>
 </div>
@@ -42,6 +41,9 @@ I am a software engineer with **4+ years of experience** specializing in buildin
 		<tr>
 			<td>Frontend Development</td>
 			<td>
+				<a href="https://angular.dev" target="_blank">
+          <img src="https://www.svgrepo.com/download/353396/angular-icon.svg" alt="angular" width="40" height="40"/>
+        </a>
 				<a href="https://react.dev/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
         </a>
