@@ -37,7 +37,7 @@ I am a software engineer with **4+ years of experience** specializing in buildin
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
         </a>
 					<a href="https://www.php.net" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="php" width="40" height="40"/>
+          <img src="https://www.svgrepo.com/download/452088/php.svg" alt="php" width="40" height="40"/>
         </a>
 			</td>
 		</tr>
