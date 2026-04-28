@@ -26,7 +26,7 @@ I am a software engineer with <strong>4+ years of experience</strong> specializi
 
 <table>
   <tr>
-    <td width="230"><strong>Programming Languages</strong></td>
+    <td width="100%"><strong>Programming Languages</strong></td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
