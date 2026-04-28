@@ -23,7 +23,6 @@ I am a software engineer with **4+ years of experience** specializing in buildin
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Languages and Tools </h2>
     <div style="text-align: left;">
       <table>
-	<tr>
 		<tr>
 			<td>Programming Languages</td>
 			<td>
