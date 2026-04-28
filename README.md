@@ -26,77 +26,78 @@ I am a software engineer with <strong>4+ years of experience</strong> specializi
 
 <table>
   <tr>
-    <td style="white-space: nowrap;"><strong>Programming Languages</strong></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-      <img src="https://www.svgrepo.com/download/452088/php.svg" width="40" height="40"/>
-    </td>
+    <td><strong>Programming Languages</strong></td>
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://www.svgrepo.com/download/452088/php.svg" width="40"/>
+</td>
   </tr>
 
   <tr>
     <td><strong>Frontend Development</strong></td>
-    <td>
-      <img src="https://www.svgrepo.com/download/353396/angular-icon.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>
-      <img src="https://hendrixer.github.io/nextjs-course/44f073f9132a0459819eae6afa5b3807/next_with_bg.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+    <td>   
+      <img src="https://www.svgrepo.com/download/353396/angular-icon.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
+        <img src="https://hendrixer.github.io/nextjs-course/44f073f9132a0459819eae6afa5b3807/next_with_bg.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
     </td>
   </tr>
 
+
   <tr>
-    <td><strong>Backend Development</strong></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-      <img src="https://www.svgrepo.com/show/354107/nestjs.svg" width="40" height="40"/>
-      <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/rest-api-1-570529.png" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/>
+    <td ><strong>Backend Development</strong></td>
+        <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+      <img src="https://www.svgrepo.com/show/354107/nestjs.svg" width="40"/>
+      <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/rest-api-1-570529.png" width="40" "/>
+      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40"/>
     </td>
   </tr>
 
   <tr>
     <td><strong>Database</strong></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40" height="40"/>
+        <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
+      <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40" />
     </td>
   </tr>
 
   <tr>
     <td><strong>DevOps and Cloud</strong></td>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Tencent_Cloud_Logo.svg" width="40" height="40"/>
+        <td>
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" />
+      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" />
+      <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Tencent_Cloud_Logo.svg" width="40" />
     </td>
   </tr>
 
   <tr>
     <td><strong>Microservices and Version Control</strong></td>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=github" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+        <td>
+      <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" width="40"/>
+      <img src="https://skillicons.dev/icons?i=github" width="40" />
+      <img src="https://skillicons.dev/icons?i=gitlab" width="40" />
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
     </td>
   </tr>
 
   <tr>
     <td><strong>Quality Assurance & Tools</strong></td>
-    <td>
-      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jest-js-icon.svg" width="40" height="40"/>
-      <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" height="40"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40" height="40"/>
+        <td>
+      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jest-js-icon.svg" width="40"/>
+      <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" />
+      <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40" />
     </td>
   </tr>
 </table>
